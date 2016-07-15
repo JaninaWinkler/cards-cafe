@@ -51,6 +51,7 @@ background-size: cover;*/
 
 #grey-circle {
   border-radius: 50%;
+  border: 2px solid black;
   width: 150px;
   height: 150px;
   background: gray;
