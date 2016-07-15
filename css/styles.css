@@ -14,6 +14,7 @@ background-size: cover;*/
 
 #blank-space {
   background:url('images/dark_wood_bg.jpg') no-repeat;
+  opacity: 0.9;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
